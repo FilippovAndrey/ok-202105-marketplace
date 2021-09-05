@@ -1,2 +1,3 @@
-class main {
+fun main() {
+    println("Hellow")
 }
